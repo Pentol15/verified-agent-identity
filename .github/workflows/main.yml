@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cd scripts
+         cd scripts
           npm install
 
       - name: Create Ethereum Identity
